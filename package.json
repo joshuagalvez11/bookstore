@@ -1,0 +1,17 @@
+{
+  "name": "bs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.2.5",
+    "mysql": "^2.18.1"
+  }
+}
